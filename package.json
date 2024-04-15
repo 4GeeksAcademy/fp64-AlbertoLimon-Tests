@@ -1,0 +1,15 @@
+{
+  "name": "fp64-albertolimon-tests",
+  "version": "1.0.0",
+  "description": "The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
